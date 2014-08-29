@@ -4,6 +4,6 @@
 <%@ Register TagPrefix="dnn" TagName="TITLE" Src="~/Admin/Containers/Title.ascx" %>
 <%@ Register TagPrefix="dnn" TagName="VISIBILITY" Src="~/Admin/Containers/Visibility.ascx" %>
       
-<div class="item width2 height2 bgrgb_brun">    
+<div class="item width3 height1 bgrgb_bla2">
     <div runat="server" id="ContentPane"></div>
 </div>
